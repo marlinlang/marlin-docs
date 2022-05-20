@@ -6,8 +6,8 @@ Welcome to the Marlin programming language documentation!
    :align: center
    :alt: Marlin logo
 
-**Marlin** is a simple and intuitive programming language. 
 
+**Marlin** is a simple and intuitive programming language. 
 Check out the :doc:`getting_started` section for further information.
 
 .. note::
