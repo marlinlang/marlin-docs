@@ -8,12 +8,14 @@ Contents
 
    .. 
         Module: std
-   std/Empty
-   std/Exception
-   std/Int32
-   std/Object
-   std/Type
+   std/index
+     std/Empty
+     std/Exception
+     std/Int32
+     std/Object
+     std/Type
 
    .. 
         Module: std.native
-   std.native/ArrayInterface
+   std/index
+     std.native/ArrayInterface
